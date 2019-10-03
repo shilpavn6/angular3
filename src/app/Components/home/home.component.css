@@ -1,0 +1,21 @@
+h1{
+    color: black;
+}
+.delete{
+    background-color: red;
+}
+.edit{
+    background-color: orangered;
+}
+.view{
+    background-color: rgb(52, 196, 196);
+}
+ .e-grid .e-headercell.customcss{ 
+    border-style: inset;
+    background-color: #2382c3;
+     color:black;
+    font-family: 'Georgia';
+    font-size: 2px; 
+    font-weight: bolder;
+ } 
+ 

@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "Id": 1,
+      "Name": "Leanne Graham",
+      "Password": "password1",
+      "NickName": "Bret",
+      "Email": "Sincere@april.biz",
+      "Dob": "22/03/2004",
+      "Gender": "Female"
+    },
+    {
+      "Id": 2,
+      "Name": "Ervin Howell",
+      "Password": "password2",
+      "NickName": "Antonette",
+      "Email": "Shanna@melissa.tv",
+      "Dob": "21/02/1994",
+      "Gender": "Female"
+    },
+    {
+      "Id": 3,
+      "Name": "Clementine Bauch",
+      "Password": "password3",
+      "NickName": "Samantha",
+      "Email": "Nathan@yesenia.net",
+      "Dob": "17/11/2000",
+      "Gender": "Male"
+    },
+    {
+      "Id": 4,
+      "Name": "Patricia Lebsack",
+      "Password": "password4",
+      "NickName": "Karianne",
+      "Email": "Julianne.OConner@kory.org",
+      "Dob": "11/07/1992",
+      "Gender": "Female"
+    },
+    {
+      "Id": 5,
+      "Name": "Chelsey Dietrich",
+      "Password": "password5",
+      "NickName": "Kamren",
+      "Email": "Lucio_Hettinger@annie.ca",
+      "Dob": "20/01/1989",
+      "Gender": "Female"
+    },
+    {
+      "Id": 6,
+      "Name": "Mrs. Dennis Schulist",
+      "Password": "password6",
+      "NickName": "Leopoldo_Corkery",
+      "Email": "Karley_Dach@jasper.info",
+      "Dob": "06/05/2000",
+      "Gender": "Female"
+    },
+    {
+      "Id": 7,
+      "Name": "Kurtis Weissnat",
+      "Password": "password7",
+      "NickName": "Elwyn.Skiles",
+      "Email": "Telly.Hoeger@billy.biz",
+      "Dob": "01/12/1996",
+      "Gender": "Male"
+    },
+    {
+      "Id": 8,
+      "Name": "Nicholas Runolfsdottir V",
+      "Password": "password8",
+      "NickName": "Maxime_Nienow",
+      "Email": "Sherwood@rosamond.me",
+      "Dob": "02/04/2004",
+      "Gender": "Female"
+    },
+    {
+      "Id": 9,
+      "Name": "Glenna Reichert",
+      "Password": "password9",
+      "NickName": "Delphine",
+      "Email": "ggglena@richert.com",
+      "Dob": "25/01/2004",
+      "Gender": "Male"
+    },
+    {
+      "Id": 10,
+      "Name": "Clementina DuBuque",
+      "Password": "password10",
+      "NickName": "Moriah.Stanton",
+      "Email": "Rey.Padberg@karina.biz",
+      "Dob": "17/01/2004",
+      "Gender": "Female"
+    },
+    {
+      "Id": 11,
+      "Name": "Mona Siene",
+      "Password": "password11",
+      "NickName": "Mona",
+      "Email": "Siene.fikara@harika.biz",
+      "Dob": "17/01/1989",
+      "Gender": "Female"
+    },
+    {
+      "Id": 12,
+      "Name": "Jack Fernandies",
+      "Password": "password12",
+      "NickName": "Fernandies",
+      "Email": "Feran@Jack.com",
+      "Dob": "07/09/1994",
+      "Gender": "Male"
+    },
+    {
+      "Id": 13,
+      "Name": "Burak Oznel",
+      "Password": "password13",
+      "NickName": "Oznel",
+      "Email": "BurakOz@redmond.com",
+      "Dob": "06/08/1982",
+      "Gender": "Male"
+    }
+  ]
+}

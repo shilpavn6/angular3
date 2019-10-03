@@ -1,0 +1,25 @@
+
+<div>
+    <span><h1>List of Users</h1></span>&nbsp;&nbsp;&nbsp;&nbsp;
+    <span><a [routerLink]="['/login']">Logout</a></span>
+</div>
+
+<ejs-grid [dataSource]='adduser' [allowPaging]='true' [allowSorting]='true' [allowMultiSorting]='true' [pageSettings]="{pageSize: 10}" gridLines='Both'>
+    <e-columns >
+        <e-column class="col" field='Name' headerText='User Name' textAlign='Center' [customAttributes]='customAttributes' width='180' height='90'></e-column>
+        <e-column class="col" field='Email' headerText='Email' textAlign='Center' [customAttributes]='customAttributes' width='200' height='90'></e-column>
+        <e-column class="col" field='NickName' headerText='Nick Name' textAlign='Center' [customAttributes]='customAttributes' width='120' height='90'></e-column>
+        <e-column class="col" field='Dob' headerText='Date of Birth' textAlign='Center' [customAttributes]='customAttributes' width='130' height='90'></e-column>
+        <e-column class="col" field='Gender' headerText='Gender' textAlign='Center' [customAttributes]='customAttributes' width='100' height='90'></e-column>
+        <e-column class="col" field=""headerText="Operation"textAlign='Center' [customAttributes]='customAttributes' width='200' height='90'>
+            <ng-template #template let-data> 
+                <button class="view"(click)="View(data.Name)">View</button>
+                <button class="edit"(click)="Edit(data.Name)">Edit</button>
+                <button class="delete"(click)="Delete(data.Name)">Delete</button> 
+               </ng-template> 
+        </e-column>
+    </e-columns>
+</ejs-grid>
+
+
+

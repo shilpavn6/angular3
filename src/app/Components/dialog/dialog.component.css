@@ -1,0 +1,16 @@
+p{
+    text-align: center;
+    font-size: 30px;
+}
+.content{
+    text-align: center;
+    margin-top: 30%;
+font-size: 20px;
+
+}
+button{
+    border-radius: 3px;
+    margin-left: 40%;
+    margin-top: 30%;
+    background-color: rgb(75, 224, 224)
+}
